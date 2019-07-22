@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mardi 16/07/2019
+## Mardi 16/07/2019 
 
 
 * [x] Comprendre le métier de développeur, aperçu sur le mindset du dev
