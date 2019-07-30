@@ -3,7 +3,7 @@
 ## Mercredi 24/07/2019
 
 
-* [ ] Savoir se documenter (MDN)
+* [x] Savoir se documenter (MDN)
 * [x] Comprendre la différence entre Frontend et Backend
 * [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [x] Comprendre les différences et rôle de chacun
@@ -17,4 +17,4 @@
   * [x] Découvrir le HTML5 sémantique
 * [ ] Découvrir le maquettage fonctionnel (wireframe)
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Savoir insérer des scripts JS dans une page HTML
+* [x] Savoir insérer des scripts JS dans une page HTML
