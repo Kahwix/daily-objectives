@@ -16,7 +16,13 @@
 
 * [ ] Découvrir le CSS :
   * [ ] Comprendre la syntaxe de base
+<<<<<<< HEAD
   * [x] Savoir insérer du CSS de différentes manières dans une page HTML [ 2 uniquement ]
   * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel => *
   * [ ] Savoir appliquer une mise une forme sur les éléments 
+=======
+  * [ ] Savoir insérer du CSS de différentes manières dans une page HTML
+  * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
+  * [ ] Savoir appliquer une mise en forme sur les éléments 
+>>>>>>> b4b1241c59b2261708d8f0bd88cfbb43981787df
   * [ ] Comprendre le box model
