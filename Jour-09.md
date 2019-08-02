@@ -5,24 +5,21 @@
 
 * [x] Javascript : 
   * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://javascript.info/hello-world) 
-  [3 Manière (head 2nd dir/body 2nd dir/ body script)]
+  [3 Manière (head 2nd dir/ body script)]
   * [ ] Savoir comment sont structurés les documents javascript (http://javascript.info/structure)
   * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://javascript.info/strict-mode)
 
 
-* [ ] Algo : 
-  * [ ] Comprendre l'utilité des algorithmes de tri
-  * [ ] Découvrir le tri par insertion (Insertion Sort)
+* [x] Algo : 
+  * [x] Comprendre l'utilité des algorithmes de tri
+  * [x] Découvrir le tri par insertion (Insertion Sort)
 
-* [ ] Découvrir le CSS :
+* [x] Découvrir le CSS :
   * [ ] Comprendre la syntaxe de base
-<<<<<<< HEAD
-  * [x] Savoir insérer du CSS de différentes manières dans une page HTML [ 2 uniquement ]
+  * [x] Savoir insérer du CSS de différentes manières dans une page HTML [ 3 uniquement ]
   * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel => *
   * [ ] Savoir appliquer une mise une forme sur les éléments 
-=======
   * [ ] Savoir insérer du CSS de différentes manières dans une page HTML
   * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
   * [ ] Savoir appliquer une mise en forme sur les éléments 
->>>>>>> b4b1241c59b2261708d8f0bd88cfbb43981787df
   * [ ] Comprendre le box model
