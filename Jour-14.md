@@ -18,9 +18,12 @@
   * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
 
 * [ ] CSS : 
-  * [ ] Découverte des icones vectorielles (https://fontawesome.com/)
-  * [ ] Découverte des préprocesseurs CSS :
-    * [ ] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
-    * [ ] Comprendre le mécanisme du preprocessing (input => output)
+  * [x] Découverte des icones vectorielles (https://fontawesome.com/)  
+  -- Lien a utiliser : <script src="https://kit.fontawesome.com/2a5b73246e.js"></script>
+
+  * [x] Découverte des préprocesseurs CSS :
+    * [x] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
+     ( enregistre une variable pour pour une configuration de code css )
+    * [x] Comprendre le mécanisme du preprocessing (input => output)
     * [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
-      * [ ] Installation de SASS (npm version)
+      * [x] Installation de SASS (npm version)  ->   "sudo npm install -g sass"
