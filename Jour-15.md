@@ -8,7 +8,8 @@
     * [ ] Faire l'exercice
 
 * [x] Algo : 
-  * [x] Découvrir le tri rapide (Quicksort)
+  * [x] Découvrir le tri rapide (Quicksort)  
+  [ plusieurs façons de tri ]
 
 * [ ] CSS : 
   * [ ] Savoir compiler du SCSS (`sass --watch`)
