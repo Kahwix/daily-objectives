@@ -11,6 +11,16 @@
   * [x] Ecrire en pseudocode le Insertion Sort (création pure)
   * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
+
+`SI` index 0 est plus grand que index 1 `ALORS ON` **Swap**
+    `SINON` on avance a l'index 1 est on `REPEAT` cette action jusqu'a un **Swap**
+`SI` on **Swap** nous recommençons a l'index 0
+
+`TANT QUE` la plus faible valeur n'est pas a l'index 0, on continue !
+
+
+
 * [ ] CSS : 
-  * [ ] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
+  * [x] Comprendre l'utilité et le fonctionnement des `mixins` dans 
+  `boilerplate SASS`
   * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
