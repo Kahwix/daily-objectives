@@ -9,7 +9,7 @@
 
 * [x] Algo : 
   * [x] Découvrir le tri rapide (Quicksort)  
-  [ plusieurs façons de tri ]
+  ` plusieurs façons de tri `
 
 * [ ] CSS : 
   * [ ] Savoir compiler du SCSS (`sass --watch`)
