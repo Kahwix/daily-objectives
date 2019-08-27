@@ -7,8 +7,10 @@
   * [x] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
     * [x] Comprendre comment sont comparés les strings ?
     * [x] Comprendre quelle est la différence entre `==` et `===` ?
+    `regarde si c'est strickement égal sans convertir`
+
     * [x] Comprendre comment sont comparées des valeurs de types différents ?
-    
+
     * [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`   
     `#égal` seulement avec `==`
 
