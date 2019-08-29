@@ -20,7 +20,9 @@
 
 
 
-* [ ] CSS : 
-  * [x] Comprendre l'utilité et le fonctionnement des `mixins` dans 
+* [x] CSS : 
+  * [x] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
+
   `boilerplate SASS`
-  * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
+  * [x] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
+  `une extention vers son origine/parent (ne prend pas les balises, même précédance qu'une class en html)`
