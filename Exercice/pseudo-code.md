@@ -9,6 +9,8 @@
 
 *** Bubbles ***
 
-`TANT QUE` index 0 est plus grand que index 1, on le garde en tant que valeur la plus grande `&&` on `REPEAT` l'action jusqu'a trouver un index avec une valeur plus grande
+`TANT QUE` la valeur de l'index 0 est plus grand que index 1, on le garde en tant que index le plus grande 
+`&&` on `REPEAT` l'action jusqu'a trouver un index avec une valeur plus grande
     `SINON` on selectionne l'index qui est plus grand et on le compare aux index suivant
+    
 `PUIS` on recommence l'action a partir de l'index 0
