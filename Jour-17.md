@@ -12,8 +12,8 @@
   * [x] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 
-`TANT QUE` index 0 est plus grand que index 1, on le garde en tant que valeur la plus grande `&&` on `REPEAT` l'action jusqu'a trouver un index avec une valeur plus grande
-    `SINON` on selectionne l'index qui est plus grand et on le compare aux index suivant
+`TANT QUE` que la valeur de index 0 est plus grand que index 1, on le garde en tant que index supérieur `&&` on `REPEAT` l'action jusqu'a trouver un index avec une valeur plus grande
+    `SINON` on selectionne l'index qui a une plus grande valeur et on le compare aux index suivant
 `PUIS` on recommence l'action a partir de l'index 0
 
 
