@@ -10,7 +10,15 @@
   * [ ] S'assurer que toutes les notions dans la page `Javascript special` sont bien acquises.
 
 * [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Merge Sort (création pure)
+  * [x] Ecrire en pseudocode le Merge Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 
+`Pour` faire le tri, nous devons divisé par rapport au millieux des index par 2 !
+     `Tant Que` nous avons pas unique 1 seul index dans le block d'index divisé par 2 a gauche, nous continuer a divisé
+     `Sinon` nous divison les index de la partie 2éme partie `Jusqu'a` avoir uniquement des index 0 uniquement !
+
+`Pour` ranger les index du par ordre croissant, nous devons fusionner les index 0 ensemble et les comparer a leur index le plus proche de Gauche a droite !
+     `Si` la valeur de l'index est plus grande, pendant la fusion; il ce positionnera en Index antiérieur qui sera incrémentais 
+
+`Puis` une fois tous les index fusionner de la sorte nous avons un tableau ranger par ordre croissant
