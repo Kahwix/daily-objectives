@@ -1,0 +1,94 @@
+<!-- Mon Idée de Code pour faire l'exercice, sa fonctionne mais trop long ! -->
+
+<!DOCTYPE html><script>
+    'use strict';
+    let browser = prompt(`What's the browser do you use ?`, '');
+    
+    if (browser == 'Edge') {
+      alert(`You've got the Edge!`);
+    }
+    else if (browser == 'Chrome') {
+      alert(`You've got the Chrome`);
+    }
+    else if (browser == 'Chrome') {
+      alert(`'Okay we support these browsers too'`);
+    }
+    else if (browser == 'Firefox') {
+      alert('Okay we support these browsers too');
+    }
+    else if (browser == 'Safari') {
+      alert('Okay we support these browsers too');
+    }
+    else if (browser == 'Opera') {
+      alert('Okay we support these browsers too');
+    }
+    else {
+      alert('Error !!! Enter')
+    }
+    </script>
+
+
+<!-- SOLUTION : ( utilisation de l'opérateur logique OU raccoursi le code que j'ai écrit plus haut ! ) -->
+
+<!DOCTYPE html><script>
+    'use strict';
+    let browser = prompt(`What's the browser do you use ?`, '');
+    
+    if(browser == 'Edge') {
+      alert("You've got the Edge!");
+    } else if (browser == 'Chrome'
+     || browser == 'Firefox'
+     || browser == 'Safari'
+     || browser == 'Opera') {
+      alert( 'Okay we support these browsers too' );
+    } else {
+      alert( 'We hope that this page looks ok!' );
+    }
+    
+</script>
+
+
+<!-- 2me exercice de Switch, mon exo -->
+
+<!DOCTYPE html><script>
+    'use strict';
+    let a = +prompt('a?', '');
+    
+    switch (a) {
+      case 0:
+        alert (0);
+        break
+        
+      case 1:
+        alert (1);
+        break
+        
+      case 2:
+      case 3:
+        alert ('2,3');
+        break
+    }
+    
+    </script>
+
+    <!-- Solution , bah j'ai oublier les   ;    après tous les "Break"  -->
+
+<!DOCTYPE html><script>
+    'use strict';
+    let a = +prompt('a?', '');
+
+    switch (a) {
+        case 0:
+            alert( 0 );
+            break;
+
+        case 1:
+            alert( 1 );
+            break;
+
+        case 2:
+        case 3:
+            alert( '2,3' );
+            break;
+}
+</script>
