@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<script>
+'use strict';
+let result = +prompt('Number ?','');
+
+switch (true) {
+  case result <= 9:
+    alert( 'Too small' );
+    break;
+    
+  case result == 10:
+    alert( 'Exactly!' );
+    break;
+
+  case result >= 11:
+    alert( 'Too large' );
+    break;
+
+  default:
+    alert( "I don't know such values" );
+}
+</script>
