@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<!-- Mon exercice Greater than 100, rater; je voulais mettre des conditions supplémentaire -->
+
+<script>
+'use strict';
+
+do {
+let num = prompt(`Write a numbers greater than 100 !`, '0');
+
+  if (num <= 100) {
+  alert('Read the first message');
+  }
+  else {
+    alert('Good Job,you can read correctly');
+    break;
+  }
+} while (true);
+
+</script>
+
+
+<!--  Réponse de l'exercice plus court, mais j'avais pas penser de laisser le prompt en affiche,
+mais j'ai coder le miens & il fonctionne -->
+
+<!-- 
+<script>
+    'use strict';
+let num;
+
+do {
+  num = prompt("Enter a number greater than 100?", 0);
+} while (num <= 100 && num);
+
+</script>
+
+-->
+
+<meta charset="UTF-8">
+
+
+<script>
+
+    'use strict';
+
+nextPrime:
+for (let i = 2; i <= 10; i++) { // for each i...
+
+  for (let j = 2; j < i; j++) { // look for a divisor..
+    if (i % j == 0) continue nextPrime; // not a prime, go next i
+  }
+
+  alert( i ); // a prime
+}
+</script>
