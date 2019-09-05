@@ -27,6 +27,9 @@
 
 
 
-* [ ] CSS : 
-  * [ ] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/)
-    * [ ] Comprendre l'intérêt de cette convention
+* [x] CSS : 
+  * [x] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/) 
+    **(Block, Element, Modifier)**
+    * [x] Comprendre l'intérêt de cette convention
+
+    ***Permet de mieux Organiser sont code, et de mieux s'en sortir sur un code d'une autre personne qui utilise ce système sur un grand site web***
