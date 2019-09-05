@@ -14,8 +14,11 @@
     * [ ] Comprendre la copie par référence
     * [ ] Savoir copier un objet (cloner)
 
-* [ ] Algo : 
+
+*Jour 17 Bubble Sort, déjà fait ! Grenouille Manger*
+
+<!-- * [ ] Algo : 
   * [ ] Ecrire en pseudocode le Bubble Sort (création pure)
-  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
+  * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur -->
 
 
