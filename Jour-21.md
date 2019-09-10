@@ -22,3 +22,10 @@
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur -->
 
 
+`FOR IN` -> Vérifier toute les clés (KEY) d'un Object
+`FOR OF` -> Vérifier toute les valeurs d'un Tableau (qui est dans un object)
+
+
+`CONST` user = { age = 26 };
+**Le contenant ne peut pas être changer, le contenue peut être changer**
+age = 26 === contenue
