@@ -28,4 +28,4 @@
 
 `CONST` user = { age = 26 };
 **Le contenant ne peut pas être changer, le contenue peut être changer**
-age = 26 === contenue
+***age = 26 === contenue***
