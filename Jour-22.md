@@ -9,3 +9,5 @@
   * [ ] Comprendre le `this` en Javascript (https://javascript.info/object-methods)
   * Découvrir la conversion d'objets en primitives (https://javascript.info/object-toprimitive)
 
+
+`THIS` est une Méthode d'object ( Ne ce déclanche que a la lecture, comme "Travailler / Dormir ect...")
