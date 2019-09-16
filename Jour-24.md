@@ -47,3 +47,15 @@ return sum;
 }
 
 *********** tttttttttt ***********
+
+
+**Remember**
+
+Math.min.apply(null,*Array*);
+Math.min.apply(this,*Array*);
+Math.min.apply(Math,*Array*);
+Math.min(...*Array*);
+
+Trouver le plus petit dans un tableau
+
+Ou déguelasse : For -> IF 
