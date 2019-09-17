@@ -7,6 +7,7 @@
   * [x] Découvrir le `DOM` :
 
     * [x] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
+<<<<<<< HEAD
     `DOM` = Représente tous le document comme Objet Modifiable !
     `CSSOM` = Juste un pour le style CSS que requiére DOM pour certaine modification de style !
     `BOM` = Rajoute des Objets supplémentaire au Navigateur !
@@ -17,6 +18,10 @@
     `TEXT` = Text Nodes !
     `Coment` = Commentaire !
 
+=======
+
+    * [x] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://javascript.info/dom-nodes)
+>>>>>>> 623aecf7f4b321bf267f115ea0474ce01780a2eb
 
     * [ ] Comprendre la navigation du DOM (https://javascript.info/dom-navigation) :
       * [ ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
