@@ -20,9 +20,12 @@
 
 
     * [ ] Comprendre la navigation du DOM (https://javascript.info/dom-navigation) :
-      * [ ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
-      * [ ] Comprendre la différence entre une `collection` et un `array`
-      * [ ] Comprendre la différence entre un `element` et un `node`
+      * [x] Comprendre la différence entre les `Child Nodes` et les `Descendants`
+      **Child Nodes = 1er Enfant - Descendants = un enfants sans plus d'informations**
+      * [x] Comprendre la différence entre une `collection` et un `array`
+      **Collection = Tableau d'itération - Array = Tableau de Valeur**
+      * [x] Comprendre la différence entre un `element` et un `node`
+      **Element = Rajoute des propriétés en plus du Node - Node = Liaison rapide avec les éléments voisin**
       * [ ] Bien comprendre à quoi correspond : 
         * [ ] `parentElement`
         * [ ] `children`
