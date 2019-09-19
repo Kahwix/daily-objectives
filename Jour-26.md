@@ -35,4 +35,4 @@
 
 * Codewars :
   * [ ] Count of positives / sum of negatives (https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
-  * [ ] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)
+  * [x] Odd or Even? (https://www.codewars.com/kata/5949481f86420f59480000e7)
