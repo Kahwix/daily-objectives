@@ -11,9 +11,10 @@
     `DOM` = Représente tous le document comme Objet Modifiable !
     `CSSOM` = Juste un pour le style CSS que requiére DOM pour certaine modification de style !
     `BOM` = Rajoute des Objets supplémentaire au Navigateur !
+        **Ils sont tous des Architectures !**
 
     * [x] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://javascript.info/dom-nodes)
-
+      ***12 type de `nodes` dans le `DOM`***
     `TAG` = Element Nodes !
     `TEXT` = Text Nodes !
     `Coment` = Commentaire !
