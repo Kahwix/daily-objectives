@@ -4,10 +4,14 @@
 
 * [ ] Javascript :
 
-  * [ ] Découvrir `Map` et `Set` (https://javascript.info/map-set)
-    * [ ] Comprendre la principale différence entre les deux.
+  * [x] Découvrir `Map` et `Set` (https://javascript.info/map-set)
+    * [x] Comprendre la principale différence entre les deux.
     * [ ] Faire les exercices
-  
+
+ `MAP` = Une Collection **Key/Value** comme un Objets en gestion de Données mêmoire !
+ `SET` = Une Collection **Value Only**, permet de pas avoir de doublons (Un Filtre de Base) ! 
+
+ Ces collections ne peuvent pas être Ordonné ou ranger, ils sont ranger dans l'ordre qu'elles sont intégrets.
 
 
 * [ ] DOM : 
