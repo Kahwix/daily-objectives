@@ -20,9 +20,9 @@
 **Console Web = REPL**
 *process.argv[i] = permet d'acceder au donner dans un tableau qui sont en cours de process*
 
+Environnement = En informatique, un environnement désigne, pour une application, l'ensemble des matériels et des logiciels système, dont le système d'exploitation, sur lesquels sont exécutés les programmes de l'application. 
+
 
 ### Frappe au clavier :
 
 * [x] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
-
-Environnement = En informatique, un environnement désigne, pour une application, l'ensemble des matériels et des logiciels système, dont le système d'exploitation, sur lesquels sont exécutés les programmes de l'application. 
