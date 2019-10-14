@@ -10,12 +10,19 @@
 
 ### Backend : 
 
-* [ ] Comprendre ce qu'est Node.js
-* [ ] Préparation de l'environnement de développement backend (installations, mises à jour)
-* [ ] Comprendre la différence entre le développement synchrone et asynchrone
-* [ ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+* [x] Comprendre ce qu'est Node.js
+***Node = Environnement de qualification** = Espace dédier pour taper ton code*
+* [x] Préparation de l'environnement de développement backend (installations, mises à jour)
+* [x] Comprendre la différence entre le développement synchrone et asynchrone
+* [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+*REPL = Read Eval Print Loop - Lire Evaluer Afficher Boucle* 
+*REPL = Synchrome (effectue une seul tâche)*
+**Console Web = REPL**
+*process.argv[i] = permet d'acceder au donner dans un tableau qui sont en cours de process*
 
 
 ### Frappe au clavier :
 
-* [ ] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
+* [x] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
+
+Environnement = En informatique, un environnement désigne, pour une application, l'ensemble des matériels et des logiciels système, dont le système d'exploitation, sur lesquels sont exécutés les programmes de l'application. 
