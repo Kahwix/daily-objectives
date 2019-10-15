@@ -15,8 +15,12 @@
   * [ ] Comprendre ce qu'est paquet 
   * [ ] Comprendre comment fonctionne le `package.json` / Mise à jour 
   * [ ] Savoir ce qu'est le `Semantic Versionning` (SemVer)
+**^ = Mise a jours des Patch + Mise a Jours Mineur ( 7.*x.x* )**
+**~ = Mise a jours des Patch uniquement ( 7.0.*x*)**
+
   * [ ] Comprendre la différence entre une installation locale vs globale, entre développement vs production
   * [ ] Découvrir les commandes utiles 
+**_NPM-Day38_ pour plus d'informations**
 
 * [ ] Faire les exercices `Timers` dans Node.js
 
