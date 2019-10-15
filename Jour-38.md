@@ -5,6 +5,8 @@
 ### Javascript : 
 
 * [x] Approfondir la différence entre `let` et `var` (https://javascript.info/var)
+**N'a pas d'environnement lexique limité, il sera toujours dans le hoisting global peut importe sa position**
+
 * [ ] Comprendre le `Global object` (https://javascript.info/global-object)
 * [ ] Approfondir sa compréhension des fonctions en étudiant son architecture (https://javascript.info/function-object)
 * [x] Comprendre le fonctionnement de `setTimeout` et `setInterval` (https://javascript.info/settimeout-setinterval)
