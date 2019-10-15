@@ -22,9 +22,6 @@
 
 Environnement = En informatique, un environnement désigne, pour une application, l'ensemble des matériels et des logiciels système, dont le système d'exploitation, sur lesquels sont exécutés les programmes de l'application. 
 
-^ = Mise a jours des Patch + Mise a Jours Mineur ( 7.*x.x* )
-~ = Mise a jours des Patch uniquement ( 7.0.*x*)
-
 ### Frappe au clavier :
 
 * [x] Leçon 1 de typingstudy.com (https://www.typingstudy.com/fr-french-2/lesson/1)
