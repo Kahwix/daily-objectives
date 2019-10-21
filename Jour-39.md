@@ -4,7 +4,9 @@
 
 ### Javascript : 
 
-  * [ ] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
+  * [x] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
+**Rappel une fonction x après avoir executer la fonction, car en JavaScript c'est Asynchrone !**
+
   * [ ] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
   * [ ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
 
