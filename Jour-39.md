@@ -18,9 +18,13 @@
 
 * [x] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 **`(https://youtu.be/27axs9dO7AE)`Vidéo Explicatif ! Le SQL est le language de communication pour stocker ou retrouver des données stocker dans la DataBase plus facilement (Comme un traducteur entre un Anglais & un Chinois)**
+*__Exemple :__ `SELECT(SQL Syntax)` id,name,price,age(DATA) `FROM(Keyword)` Nom d'objet(Parametre)*
 
-* [ ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
-* [ ] Installation de `PostgreSQL`
+* [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
+**Système de Gestion de DataBase Relationnel & Objet -- Concurance : MySQL / Oracle... / IBM**
+
+* [x] Installation de `PostgreSQL`   -> **sudo apt install postgresql**
+
 * [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 * [ ] Création/suppression de comptes utilisateurs
 * [ ] Création de bases de données (https://youtu.be/DvDOU-v822w)
