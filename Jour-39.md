@@ -26,6 +26,6 @@
 
 ### Node.JS : 
 
-* Découverte d'`Express.js`
-* Installation d'`Express.js`
-* Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
+* [ ] Découverte d'`Express.js`
+* [ ] Installation d'`Express.js`
+* [ ] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
