@@ -13,7 +13,9 @@
 
 ### SQL :
 
-* [ ] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
+* [x] Savoir ce qu'est une base de données `Data Base` (https://youtu.be/XQ_6G0iCyMQ)
+**Une Data Base c'est : Un serveur de donnée de stockage et de retrouver l'intégraliter les données stocker ! En utilisation avec le MySQL / IBM DB2 / PostGreSQL**
+
 * [ ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 * [ ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [ ] Installation de `PostgreSQL`
