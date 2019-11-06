@@ -34,9 +34,10 @@
 * [ ] Savoir restaurer une base de données
 * [ ] Savoir restaurer le schéma d'une base de donnée uniquement
 * [ ] Savoir retrouver une ou plusieurs tables d'une base de données
-* [ ] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
+* [x] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
 
 ### Node.JS : 
 
 * [ ] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
 * [ ] Savoir créer des vues personnalisées avec `Pug` ou `EJS` (plusieurs fois, plusieurs différentes)
+* [ ] Installer `pgadmin` (https://www.pgadmin.org/) et créer une database
